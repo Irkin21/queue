@@ -1,0 +1,6 @@
+D:\PRoject\Quere\Quere\bin\Debug\Quere.exe.config
+D:\PRoject\Quere\Quere\bin\Debug\Quere.exe
+D:\PRoject\Quere\Quere\bin\Debug\Quere.pdb
+D:\PRoject\Quere\Quere\obj\Debug\Quere.csprojResolveAssemblyReference.cache
+D:\PRoject\Quere\Quere\obj\Debug\Quere.exe
+D:\PRoject\Quere\Quere\obj\Debug\Quere.pdb
